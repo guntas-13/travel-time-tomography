@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{ambient}
+{\sc Bensen, G.~D., Ritzwoller, M.~H., Barmin, M.~P., Levshin, A.~L., Lin, F., Moschetti, M.~P., Shapiro, N.~M., and Yang, Y.}
+\newblock Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements.
+\newblock {\em Geophysical Journal International 169}, 3 (06 2007), 1239--1260.
+
+\bibitem{iasp91}
+{\sc Kennett, B. L.~N., and Engdahl, E.~R.}
+\newblock Traveltimes for global earthquake location and phase identification.
+\newblock {\em Geophysical Journal International 105}, 2 (05 1991), 429--465.
+
+\bibitem{ak135}
+{\sc Kennett, B. L.~N., Engdahl, E.~R., and Buland, R.}
+\newblock Constraints on seismic velocities in the earth from traveltimes.
+\newblock {\em Geophysical Journal International 122}, 1 (07 1995), 108--124.
+
+\bibitem{masw}
+{\sc Park, C.}
+\newblock Imaging dispersion curves of surface waves on multi-channel record.
+\newblock {\em Seg Technical Program Expanded Abstracts 17\/} (01 1999).
+
+\bibitem{Ruecker2017}
+{\sc R\"ucker, C., G\"unther, T., and Wagner, F.~M.}
+\newblock {pyGIMLi}: An open-source library for modelling and inversion in geophysics.
+\newblock {\em Computers and Geosciences 109\/} (2017), 106--123.
+
+\end{thebibliography}
